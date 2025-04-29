@@ -5,7 +5,7 @@
 #include <unistd.h>
 
 int main(){
-    initscr();
+    initscr(); 
     int count=1;
     // this program will run forever and can be terminated by Ctrl-C
     while(1){
